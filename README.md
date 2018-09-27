@@ -6,7 +6,9 @@
 
 
 > The result ploting show a lighter version of the original graph.
+
 ![versionv1 image] (https://github.com/Mark-Zeng/Research_Transit/blob/master/updatedv1_bc.png)
 
 > As compared to the original:
+
 ![original image] (https://github.com/Mark-Zeng/Research_Transit/blob/master/bc.png)
